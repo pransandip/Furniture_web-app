@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.607" height="27.75" viewBox="0 0 29.607 27.75">
+  <g id="Group_59829" data-name="Group 59829" transform="translate(20130.607 7570)">
+    <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(-20131.357 -7562.5)">
+      <path id="Path_33270" data-name="Path 33270" d="M13.714,30.857A.857.857,0,1,1,12.857,30,.857.857,0,0,1,13.714,30.857Z" transform="translate(-4.5 -12.214)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_33271" data-name="Path 33271" d="M30.214,30.857A.857.857,0,1,1,29.357,30,.857.857,0,0,1,30.214,30.857Z" transform="translate(-11.571 -12.214)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_33272" data-name="Path 33272" d="M1.5,1.5H4.929l2.3,11.477a1.714,1.714,0,0,0,1.714,1.38h8.331a1.714,1.714,0,0,0,1.714-1.38l1.371-7.191H5.786" transform="translate(0 0)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <g id="Group_59828" data-name="Group 59828" transform="translate(-21351 -7585)">
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1232 15)" fill="#1b1d1f" stroke="#fff" stroke-width="1.5">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="8.25" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

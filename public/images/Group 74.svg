@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_74" data-name="Group 74" transform="translate(-113 -1219)">
+    <rect id="Rectangle_48" data-name="Rectangle 48" width="40" height="40" rx="8" transform="translate(113 1219)" fill="#c2b858"/>
+    <g id="scale_size_ruler_centimeter_millimeter_geometry_horizontal_meter_inch_geometric" data-name="scale, size, ruler, centimeter, millimeter, geometry, horizontal, meter, inch, geometric" transform="translate(121 1226.965)">
+      <path id="Path_191" data-name="Path 191" d="M21.4,18.4,5.662,2.668A2.088,2.088,0,0,0,3.345,2.2,2.088,2.088,0,0,0,2,4.156V21.32a.715.715,0,0,0,.715.715H19.88a2.146,2.146,0,0,0,1.5-3.633Zm-.858,1.774a.715.715,0,0,1-.644.429h-2.16V19.89a.715.715,0,0,0-1.43,0v.715h-1.43V19.89a.715.715,0,1,0-1.43,0v.715h-1.43V19.89a.715.715,0,0,0-1.43,0v.715H9.152V19.89a.715.715,0,0,0-1.43,0v.715H6.291V19.89a.715.715,0,1,0-1.43,0v.715H3.43v-1.43h.715a.715.715,0,0,0,0-1.43H3.43v-1.43h.715a.715.715,0,0,0,0-1.43H3.43v-1.43h.715a.715.715,0,0,0,0-1.43H3.43v-1.43h.715a.715.715,0,1,0,0-1.43H3.43V7.732h.715a.715.715,0,1,0,0-1.43H3.43V4.156a.715.715,0,0,1,1.187-.493l15.77,15.756A.672.672,0,0,1,20.538,20.176Z" transform="translate(0)" fill="#fff"/>
+      <path id="Path_192" data-name="Path 192" d="M9.223,13.916a.716.716,0,0,0-1.223.5v5.936a.715.715,0,0,0,.715.715h5.936a.715.715,0,0,0,.5-1.223Zm.207,5.722v-3.5l3.5,3.5Z" transform="translate(-1.709 -3.324)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
